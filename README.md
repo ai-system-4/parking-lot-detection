@@ -1,1 +1,1 @@
-# parking-lot-detection
+# YOLO를 활용한 스마트 주차 관리 시스템 : 주차 공간 탐지 모델
